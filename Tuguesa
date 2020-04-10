@@ -1,61 +1,121 @@
 #EXTM3U
-#EXTINF:-1,POR:  RTP 1
-http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7057
-#EXTINF:-1,POR:  RTP 2
-http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7056
-#EXTINF:-1,POR:  SIC HD
-http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7063
-#EXTINF:-1,POR:  SIC Caras
-http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7059
-#EXTINF:-1,POR:  SIC K
-http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7062
-#EXTINF:-1,POR:  Sic Mulher
-http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7058
-#EXTINF:-1,POR:  SIC Noticias
-http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7061
-#EXTINF:-1,POR:  Sic Radical
-http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7060
-#EXTINF:-1,POR:  Toros tv
-http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7068
-#EXTINF:-1,POR:  TV Globo
-http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7064
-#EXTINF:-1,POR:  TVI
-http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7066
-#EXTINF:-1,POR:  TVI 24
-http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7065
-#EXTINF:-1,POR:  Cine Mundo
-http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7050
-#EXTINF:-1,POR:  TVI Reality
-http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7049
-#EXTINF:-1,POR:  Fox Movies HD
-http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7069
-#EXTINF:-1,POR:  RTP 3
-http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7078
-#EXTINF:-1,POR:  Hollywood
-http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7048
-#EXTINF:-1,POR:  SPORT TV 1
-http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7085
-#EXTINF:-1,POR:  SPORT TV 2 HD
-http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7084
-#EXTINF:-1,POR:  SPORT TV 3 HD
-http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7083
-#EXTINF:-1,POR:  SPORT TV 4
-http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7082
-#EXTINF:-1,POR:  SPORT TV 5 HD
-http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7081
-#EXTINF:-1,POR:  TVCine 1
-http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7077
-#EXTINF:-1,POR:  TVCine 2
-http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7076
-#EXTINF:-1,POR:  TVCine 3
-http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7075
-#EXTINF:-1,POR:  TVCine 4
-http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7074
-#EXTINF:-1,POR:  TV RECORD
-http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7073
-#EXTINF:-1,POR:  CmTV FHD
-http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7072
-#EXTINF:-1,POR:  BTV 1 HD
-http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7071
-#EXTINF:-1,POR:  CANAL.PANDA
-http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7070
+#EXTINF:-1,PT: TV CINE 1HD
+http://world-ott.com:8080/sublime/sublime1234/1523
+#EXTINF:-1,PT: TV CINE 2HD
+http://world-ott.com:8080/sublime/sublime1234/1524
+#EXTINF:-1,PT: TV CINE 3HD
+http://world-ott.com:8080/sublime/sublime1234/1525
+#EXTINF:-1,PT: TV CINE 4HD
+http://world-ott.com:8080/sublime/sublime1234/1526
+#EXTINF:-1,PT: HOLLYWOOD HD
+http://world-ott.com:8080/sublime/sublime1234/2120
+#EXTINF:-1,PT: TV SERIES HD
+http://world-ott.com:8080/sublime/sublime1234/2117
+#EXTINF:-1,PT: AXN HD
+http://world-ott.com:8080/sublime/sublime1234/2130
+#EXTINF:-1,PT: AXN BLACK HD
+http://world-ott.com:8080/sublime/sublime1234/2131
+#EXTINF:-1,PT: AXN WHITE HD
+http://world-ott.com:8080/sublime/sublime1234/2129
+#EXTINF:-1,PT: FOX MOVIES HD
+http://world-ott.com:8080/sublime/sublime1234/2140
+#EXTINF:-1,PT: FOX CRIME HD
+http://world-ott.com:8080/sublime/sublime1234/2128
+#EXTINF:-1,PT: FOX HD
+http://world-ott.com:8080/sublime/sublime1234/2127
+#EXTINF:-1,PT: FOX LIFE HD
+http://world-ott.com:8080/sublime/sublime1234/2126
+#EXTINF:-1,PT: FOX MOVIES HD
+http://world-ott.com:8080/sublime/sublime1234/2133
+#EXTINF:-1,PT: FOX CRIME HD
+http://world-ott.com:8080/sublime/sublime1234/2137
+#EXTINF:-1,PT: FOX COMEDY HD
+http://world-ott.com:8080/sublime/sublime1234/2135
+#EXTINF:-1,PT: SYFY HD
+http://world-ott.com:8080/sublime/sublime1234/2142
+#EXTINF:-1,PT: TLCHD
+http://world-ott.com:8080/sublime/sublime1234/2484
+#EXTINF:-1,PT: TVC2 HD
+http://world-ott.com:8080/sublime/sublime1234/2483
+#EXTINF:-1,PT: NATIONAL GEO HD
+http://world-ott.com:8080/sublime/sublime1234/2123
+#EXTINF:-1,PT: DISCOVERY HD
+http://world-ott.com:8080/sublime/sublime1234/2125
+#EXTINF:-1,PT: NAT GEO WILD HD
+http://world-ott.com:8080/sublime/sublime1234/2479
+#EXTINF:-1,PT: Nickelodeon HD
+http://world-ott.com:8080/sublime/sublime1234/2477
+#EXTINF:-1,PT: DISCOVERY SHOW CAST
+http://world-ott.com:8080/sublime/sublime1234/2124
+#EXTINF:-1,PT: CARTOON NETWORK HD
+http://world-ott.com:8080/sublime/sublime1234/2136
+#EXTINF:-1,PT: DISNEY CHANNEL HD
+http://world-ott.com:8080/sublime/sublime1234/2139
+#EXTINF:-1,PT: DISNEY JUNIOR HD
+http://world-ott.com:8080/sublime/sublime1234/2138
+#EXTINF:-1,PT| BABY TV HD
+http://world-ott.com:8080/sublime/sublime1234/2478
+#EXTINF:-1,PT: VH1 HD
+http://world-ott.com:8080/sublime/sublime1234/2481
+#EXTINF:-1,PT: MCM POP HD
+http://world-ott.com:8080/sublime/sublime1234/2480
+#EXTINF:-1,PT: ODISSEA HD
+http://world-ott.com:8080/sublime/sublime1234/2122
+#EXTINF:-1,PT: CM TV HD
+http://world-ott.com:8080/sublime/sublime1234/2156
+#EXTINF:-1,PT: CANAL PANDA HD
+http://world-ott.com:8080/sublime/sublime1234/2155
+#EXTINF:-1,PT: MOTOR GP TV HD
+http://world-ott.com:8080/sublime/sublime1234/2141
+#EXTINF:-1,PT: RTP 1HD
+http://world-ott.com:8080/sublime/sublime1234/2152
+#EXTINF:-1,PT: RTP 2 HD
+http://world-ott.com:8080/sublime/sublime1234/2494
+#EXTINF:-1,PT: RTP 3 HD
+http://world-ott.com:8080/sublime/sublime1234/2493
+#EXTINF:-1,PT: RTP ACORES HD
+http://world-ott.com:8080/sublime/sublime1234/2492
+#EXTINF:-1,PT: RTP AFRICA HD
+http://world-ott.com:8080/sublime/sublime1234/2491
+#EXTINF:-1,PT: RTP ACORES HD
+http://world-ott.com:8080/sublime/sublime1234/2490
+#EXTINF:-1,PT: RTP MADEIRA HD
+http://world-ott.com:8080/sublime/sublime1234/2489
+#EXTINF:-1,PT: SIC HD
+http://world-ott.com:8080/sublime/sublime1234/2488
+#EXTINF:-1,PT: SIC MULHER HD
+http://world-ott.com:8080/sublime/sublime1234/2487
+#EXTINF:-1,PT: SIC NOTICIAS
+http://world-ott.com:8080/sublime/sublime1234/2486
+#EXTINF:-1,PT: RTP MEMORIA HD
+http://world-ott.com:8080/sublime/sublime1234/2485
+#EXTINF:-1,PT: ********* PORTUGUES SPORT ********* [PT:
+http://world-ott.com:8080/sublime/sublime1234/1530
+#EXTINF:-1,PT: SPORT TV 1HD
+http://world-ott.com:8080/sublime/sublime1234/1531
+#EXTINF:-1,PT: SPORT TV 2HD
+http://world-ott.com:8080/sublime/sublime1234/1532
+#EXTINF:-1,PT: SPORT TV 3HD
+http://world-ott.com:8080/sublime/sublime1234/1533
+#EXTINF:-1,PT: SPORT TV 4HD
+http://world-ott.com:8080/sublime/sublime1234/1534
+#EXTINF:-1,PT: SPORT TV 5HD
+http://world-ott.com:8080/sublime/sublime1234/1535
+#EXTINF:-1,PT| Eleven Sport 1 HD
+http://world-ott.com:8080/sublime/sublime1234/10161
+#EXTINF:-1,PT| Eleven Sport 2 HD
+http://world-ott.com:8080/sublime/sublime1234/10160
+#EXTINF:-1,PT| Eleven Sport 3 HD
+http://world-ott.com:8080/sublime/sublime1234/10159
+#EXTINF:-1,PT| Eleven Sport 4 HD
+http://world-ott.com:8080/sublime/sublime1234/10158
+#EXTINF:-1,PT| Eleven Sport 5 HD
+http://world-ott.com:8080/sublime/sublime1234/10157
+#EXTINF:-1,PT| Eleven Sport 6 HD
+http://world-ott.com:8080/sublime/sublime1234/10156
+#EXTINF:-1,PT: BENIFICA TV HD
+http://world-ott.com:8080/sublime/sublime1234/1536
+#EXTINF:-1,PT: MOTORVISION TV HD
+http://world-ott.com:8080/sublime/sublime1234/2476
+#EXTINF:-1,PT:   FUEL TV HD
+http://world-ott.com:8080/sublime/sublime1234/2475
